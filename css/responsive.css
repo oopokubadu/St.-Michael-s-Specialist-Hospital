@@ -1,3 +1,4 @@
+	
 /* Normal desktop :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 .slider-height {
@@ -6,6 +7,14 @@
 .btn.btn-icon.btn-icon-white {
 	display: none;
 }
+.div.col-lg-10.offset-lg-1{
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+
+
 .header-padding {
 	padding: 0 45px;
 }

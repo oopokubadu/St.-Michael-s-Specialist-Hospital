@@ -1059,6 +1059,8 @@ input.main-search-input:-ms-input-placeholder {
 }
 .section-text.section-text-green h1 {
 	margin-bottom: 24px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 .section-text-white h5 {
 	color: #899dab;
@@ -1085,6 +1087,7 @@ input.main-search-input:-ms-input-placeholder {
 .section-title h1 {
 	margin-bottom: 18px;
 	line-height: 1.2;
+	
 }
 .section-back-icon {
 	position: absolute;
